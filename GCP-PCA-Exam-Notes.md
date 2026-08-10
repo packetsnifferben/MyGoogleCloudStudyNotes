@@ -1,0 +1,17 @@
+# Google Cloud Professional Cloud Architect (PCA) Study Notes
+
+Here are my detailed preparation notes and exam strategies for the GCP Professional Cloud Architect certification.
+
+## 📖 Published Article & Breakdown
+
+I’ve published a comprehensive breakdown of my exam experience, study methodology, and key focus areas on Hashnode:
+
+👉 **Read the full article here**: [My Journey to GCP Professional Cloud Architect: Exam Breakdown and Preparation Tips](https://lucasbennettexamnotes.hashnode.dev/my-journey-to-gcp-professional-cloud-architect-exam-breakdown-and-preparation-tips)
+
+---
+
+## 🎯 Key Takeaways Summary
+
+* **Case Studies Are Crucial**: Make sure to analyze the business and technical requirements of all official GCP case studies before exam day.
+* **Architecture Over Syntax**: Focus on *why* a specific service (e.g., Cloud Spanner vs. Bigtable) is chosen based on trade-offs like availability, consistency, and cost.
+* **Practice Scenarios**: Working through real-world exam-style scenarios helps tremendously with time management.
