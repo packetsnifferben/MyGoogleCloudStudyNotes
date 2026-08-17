@@ -15,3 +15,12 @@ I’ve published a comprehensive breakdown of my exam experience, study methodol
 * **Case Studies Are Crucial**: Make sure to analyze the business and technical requirements of all official GCP case studies before exam day.
 * **Architecture Over Syntax**: Focus on *why* a specific service (e.g., Cloud Spanner vs. Bigtable) is chosen based on trade-offs like availability, consistency, and cost.
 * **Practice Scenarios**: Working through real-world exam-style scenarios helps tremendously with time management.
+
+---
+
+🔗 Official Google Cloud Professional Architect Resources
+
+* [Google Cloud Professional Cloud Architect Official Guide](https://cloud.google.com/learn/certification/cloud-architect) - Official exam guide, domain coverage, and registration details.
+* [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Best practices for system design, security, reliability, and cost optimization.
+* [Google Cloud Documentation Portal](https://cloud.google.com/docs) - Official service documentation and API specs across GCP services.
+* [Official Google Cloud Platform GitHub Organization](https://github.com/GoogleCloudPlatform) - Open-source GCP client libraries, architecture blueprints, and Terraform modules.
