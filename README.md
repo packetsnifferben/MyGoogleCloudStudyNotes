@@ -1,44 +1,42 @@
-# Google Cloud Study Notes
+# Google Cloud Study Notes & Architecture Hub ☁️
 
-Welcome to my personal Google Cloud Platform (GCP) learning hub! 
+Welcome to my personal Google Cloud Platform (GCP) learning hub! This repository is dedicated to organizing my study notes, exam strategies, and architecture patterns as I prepare for Google Cloud certifications, including **Professional Cloud Architect** and **Generative AI Leader**.
 
-This repository is dedicated to organizing my study notes, exam strategies, and key resources as I prepare for Google Cloud certifications. Whether you are also studying for GCP exams or just exploring cloud technology, I hope you find these notes helpful.
-
----
-
-## 🎯 What You'll Find Here
-
-* **Exam Study Guides**: Breakdown of core concepts, service summaries, and high-yield topics.
-* **Service Deep Dives**: Conceptual notes on Compute Engine, Cloud Storage, BigQuery, IAM, and Networking.
-* **Practice Question Takeaways**: Notes on tricky scenarios, key trade-offs, and common exam pitfalls.
-* **Recommended Resources**: Curated links to official documentation, courses, and practice materials.
+Whether you are also studying for GCP certifications or exploring cloud-native architectures, I hope you find these notes and automated audit scripts helpful.
 
 ---
 
-## ☁️ Google Cloud Focus Areas
+### 🎯 Key Learning Domains & Focus Areas
 
-### 1. Cloud Architecture & Infrastructure
-Understanding foundational building blocks like virtual machines, VPC networks, load balancing, and IAM policies.
-
-### 2. Data & Analytics
-Exploring serverless data processing, data warehousing, and managed database services.
-
-### 3. Security & Compliance
-Best practices for identity management, encryption at rest/in transit, and least privilege access.
+* **Cloud Architecture & Landing Zones:** Organization structure, Shared VPC design, Hybrid Interconnect, and IAM governance.
+* **Data & AI Infrastructure:** Vertex AI ecosystem, Retrieval-Augmented Generation (RAG) architecture, and BigQuery data warehousing.
+* **Serverless & Microservices:** Container orchestration with Cloud Run, GKE Autopilot, and Eventarc integration.
 
 ---
 
-## 💡 How to Use These Notes
+## 📂 Repository Index & Study Directory
 
-1. Navigate through the repository folders to find notes organized by certification and service topic.
-2. Review the topic summaries before taking practice exams for quick revision.
-3. Feel free to star ⭐️ this repository if you find the content helpful!
+### 📘 Professional Cloud Architect (PCA) Resources
+* [`GCP-PCA-Exam-Notes.md`](./GCP-PCA-Exam-Notes.md) - Exam domain breakdown, scenario questions, IAM policies, and VPC architecture patterns.
+
+### 🤖 Generative AI Leader Resources
+* [`Google-GenAI-Leader-Exam-Prep-Journal.md`](./Google-GenAI-Leader-Exam-Prep-Journal.md) - Preparation journal, business value frameworks, and AI ethics/governance notes.
+* [`Google-Generative-AI-Leader-Prep-Notes.md`](./Google-Generative-AI-Leader-Prep-Notes.md) - Deep dive into foundation models, prompt engineering, and Vertex AI solutions.
+
+### 📝 GCP Architecture Notes
+* [`notes/GCP-Architecture-Patterns.md`](./notes/GCP-Architecture-Patterns.md) - Enterprise landing zone guidelines, compute comparison matrix, and RAG design principles.
+
+### 🛠️ Python GCP Automation Scripts
+* [`scripts/gcp_resource_audit.py`](./scripts/gcp_resource_audit.py) - Python Google Cloud Client Library script for auditing Cloud Storage and Compute Engine resources.
 
 ---
 
-## 🤝 Connect & Feedback
+### ⏱️ Certification Study Progress
 
-I am constantly updating these notes as I continue learning. If you have any suggestions, spot an update in GCP services, or want to connect with fellow cloud learners, feel free to open an Issue or reach out!
+- [x] Completed GCP Professional Cloud Architect case studies (TerramEarth, EHCI, etc.)
+- [x] Configured hybrid networking & Shared VPC patterns
+- [x] Evaluated Vertex AI Foundation Models and RAG architecture
+- [ ] Final practice exam review for Generative AI Leader certification
 
 ---
-*Happy Cloud Learning!*
+*Thanks for visiting! Feel free to star ⭐️ this repo if you find these GCP materials useful.*
