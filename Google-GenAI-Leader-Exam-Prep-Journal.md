@@ -102,4 +102,13 @@ Here are 5 unique real-world exam-style scenarios deconstructed step-by-step:
 - [ ] Do you know when to use Grounding vs. Fine-Tuning?
 - [ ] Are you clear on Google's 7 Responsible AI Principles?
 
+---
+
+🔗 Official Google Cloud Generative AI Leader Resources
+
+* [Google Cloud Generative AI Leader Certification](https://cloud.google.com/learn/certification/generative-ai-leader) - Official exam outline, foundational concepts, and business use cases.
+* [Google Cloud Vertex AI Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview) - Official technical overview of foundation models, fine-tuning, and prompt engineering.
+* [Google Cloud Generative AI Solutions](https://cloud.google.com/use-cases/generative-ai) - Enterprise transformation blueprints, business value metrics, and AI governance models.
+* [Google Cloud Generative AI Official GitHub Repo](https://github.com/GoogleCloudPlatform/generative-ai) - Notebooks, prompt templates, and sample code for Vertex AI Generative AI Studio.
+
 Happy studying, and see you on the certified side! 🚀
