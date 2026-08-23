@@ -107,3 +107,7 @@ To keep our repository organized, technical architecture logs are broken down in
 * [Google Cloud Vertex AI Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview) - Official technical overview of foundation models, fine-tuning, and prompt engineering.
 * [Google Cloud Generative AI Solutions](https://cloud.google.com/use-cases/generative-ai) - Enterprise transformation blueprints, business value metrics, and AI governance models.
 * [Google Cloud Generative AI Official GitHub Repo](https://github.com/GoogleCloudPlatform/generative-ai) - Notebooks, prompt templates, and sample code for Vertex AI Generative AI Studio.
+
+
+## 🌐 External Prep Guides & Insights
+* [Leading AI Transformation: My Insights on the Google Cloud Generative AI Leader Certification](https://medium.com/@exampassteam/leading-ai-transformation-my-insights-on-the-google-cloud-generative-ai-leader-certification-15f0f87bedd2)
