@@ -39,4 +39,8 @@ Whether you are also studying for GCP certifications or exploring cloud-native a
 - [ ] Final practice exam review for Generative AI Leader certification
 
 ---
+## 🌐 Community Insights & Architectural Guides
+
+* [Designing High-Availability Architecture for Google Cloud: Real-World GCP Architect Insights](https://dev.to/packetsnifferben/designing-high-availability-architecture-for-google-cloud-real-world-gcp-architect-insights-4ekd)
+* [Leading AI Transformation: My Insights on the Google Cloud Generative AI Leader Certification](https://medium.com/@exampassteam/leading-ai-transformation-my-insights-on-the-google-cloud-generative-ai-leader-certification-15f0f87bedd2)
 *Thanks for visiting! Feel free to star ⭐️ this repo if you find these GCP materials useful.*
