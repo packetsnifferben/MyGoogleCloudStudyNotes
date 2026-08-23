@@ -24,3 +24,7 @@ I’ve published a comprehensive breakdown of my exam experience, study methodol
 * [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Best practices for system design, security, reliability, and cost optimization.
 * [Google Cloud Documentation Portal](https://cloud.google.com/docs) - Official service documentation and API specs across GCP services.
 * [Official Google Cloud Platform GitHub Organization](https://github.com/GoogleCloudPlatform) - Open-source GCP client libraries, architecture blueprints, and Terraform modules.
+* ---
+
+## 🌐 External Architecture Guides
+* [Designing High-Availability Architecture for Google Cloud: Real-World GCP Architect Insights](https://dev.to/packetsnifferben/designing-high-availability-architecture-for-google-cloud-real-world-gcp-architect-insights-4ekd)
