@@ -1,0 +1,25 @@
+# Google Cloud Build CI/CD Pipeline Configuration
+# Target: DevOps & Cloud Architecture Automation
+
+steps:
+  # Step 1: Build the Docker container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/enterprise-api:$COMMIT_SHA', '.']
+
+  # Step 2: Push the container image to Artifact Registry / Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/enterprise-api:$COMMIT_SHA']
+
+  # Step 3: Deploy the container image to Cloud Run service
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'enterprise-api-service'
+      - '--image=gcr.io/$PROJECT_ID/enterprise-api:$COMMIT_SHA'
+      - '--region=us-central1'
+      - '--platform=managed'
+
+images:
+  - 'gcr.io/$PROJECT_ID/enterprise-api:$COMMIT_SHA'
